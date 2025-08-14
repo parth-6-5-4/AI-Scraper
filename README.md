@@ -34,7 +34,7 @@ AI Scraper Pro is a full-stack web application designed to track and manage data
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/parth-6-5-4/AI-Scraper.git)>
 cd <repository-directory>
 ```
 
